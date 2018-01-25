@@ -1,0 +1,1239 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "OrdinalNumber",
+        "values": [
+          {
+            "id": "1",
+            "name": {
+              "value": "1",
+              "synonyms": [
+                "erste",
+                "erster",
+                "ersten",
+                "erstes"
+              ]
+            }
+          },
+          {
+            "id": "2",
+            "name": {
+              "value": "2",
+              "synonyms": [
+                "zweite",
+                "zweiter",
+                "zweiten",
+                "zweites"
+              ]
+            }
+          },
+          {
+            "id": "3",
+            "name": {
+              "value": "3",
+              "synonyms": [
+                "dritte",
+                "dritter",
+                "dritten",
+                "drittes"
+              ]
+            }
+          },
+          {
+            "id": "4",
+            "name": {
+              "value": "4",
+              "synonyms": [
+                "vierte",
+                "vierter",
+                "vierten",
+                "viertes"
+              ]
+            }
+          },
+          {
+            "id": "5",
+            "name": {
+              "value": "5",
+              "synonyms": [
+                "fünfte",
+                "fünfter",
+                "fünften",
+                "fünftes"
+              ]
+            }
+          },
+          {
+            "id": "6",
+            "name": {
+              "value": "6",
+              "synonyms": [
+                "sechste",
+                "sechster",
+                "sechsten",
+                "sechstes"
+              ]
+            }
+          },
+          {
+            "id": "7",
+            "name": {
+              "value": "7",
+              "synonyms": [
+                "siebente",
+                "siebenter",
+                "siebenten",
+                "siebentes",
+                "siebte",
+                "siebter",
+                "siebten",
+                "siebtes"
+              ]
+            }
+          },
+          {
+            "id": "8",
+            "name": {
+              "value": "8",
+              "synonyms": [
+                "achte",
+                "achter",
+                "achten",
+                "achtes"
+              ]
+            }
+          },
+          {
+            "id": "9",
+            "name": {
+              "value": "9",
+              "synonyms": [
+                "neunte",
+                "neunter",
+                "neunten",
+                "neuntes"
+              ]
+            }
+          },
+          {
+            "id": "10",
+            "name": {
+              "value": "10",
+              "synonyms": [
+                "zehnte",
+                "zehnter",
+                "zehnten",
+                "zehntes"
+              ]
+            }
+          },
+          {
+            "id": "11",
+            "name": {
+              "value": "11",
+              "synonyms": [
+                "elfte",
+                "elfter",
+                "elften",
+                "elftes"
+              ]
+            }
+          },
+          {
+            "id": "12",
+            "name": {
+              "value": "12",
+              "synonyms": [
+                "zwölfte",
+                "zwölfter",
+                "zwölften",
+                "zwölftes"
+              ]
+            }
+          },
+          {
+            "id": "13",
+            "name": {
+              "value": "13",
+              "synonyms": [
+                "dreizehnte",
+                "dreizehnter",
+                "dreizehnten",
+                "dreizehntes"
+              ]
+            }
+          },
+          {
+            "id": "14",
+            "name": {
+              "value": "14",
+              "synonyms": [
+                "vierzehnte",
+                "vierzehnter",
+                "vierzehnten",
+                "vierzehntes"
+              ]
+            }
+          },
+          {
+            "id": "15",
+            "name": {
+              "value": "15",
+              "synonyms": [
+                "fünfzehnte",
+                "fünfzehnter",
+                "fünfzehnten",
+                "fünfzehntes"
+              ]
+            }
+          },
+          {
+            "id": "16",
+            "name": {
+              "value": "16",
+              "synonyms": [
+                "sechzehnte",
+                "sechzehnter",
+                "sechzehnten",
+                "sechzehntes"
+              ]
+            }
+          },
+          {
+            "id": "17",
+            "name": {
+              "value": "17",
+              "synonyms": [
+                "siebzehnte",
+                "siebzehnter",
+                "siebzehnten",
+                "siebzehntes"
+              ]
+            }
+          },
+          {
+            "id": "18",
+            "name": {
+              "value": "18",
+              "synonyms": [
+                "achtzehnte",
+                "achtzehnter",
+                "achtzehnten",
+                "achtzehntes"
+              ]
+            }
+          },
+          {
+            "id": "19",
+            "name": {
+              "value": "19",
+              "synonyms": [
+                "neunzehnte",
+                "neunzehnter",
+                "neunzehnten",
+                "neunzehntes"
+              ]
+            }
+          },
+          {
+            "id": "20",
+            "name": {
+              "value": "20",
+              "synonyms": [
+                "zwanzigste",
+                "zwanzigster",
+                "zwanzigsten",
+                "zwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "21",
+            "name": {
+              "value": "21",
+              "synonyms": [
+                "einundzwanzigste",
+                "einundzwanzigster",
+                "einundzwanzigsten",
+                "einundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "22",
+            "name": {
+              "value": "22",
+              "synonyms": [
+                "zweiundzwanzigste",
+                "zweiundzwanzigster",
+                "zweiundzwanzigsten",
+                "zweiundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "23",
+            "name": {
+              "value": "23",
+              "synonyms": [
+                "dreiundzwanzigste",
+                "dreiundzwanzigster",
+                "dreiundzwanzigsten",
+                "dreiundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "24",
+            "name": {
+              "value": "24",
+              "synonyms": [
+                "vierundzwanzigste",
+                "vierundzwanzigster",
+                "vierundzwanzigsten",
+                "vierundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "25",
+            "name": {
+              "value": "25",
+              "synonyms": [
+                "fünfundzwanzigste",
+                "fünfundzwanzigster",
+                "fünfundzwanzigsten",
+                "fünfundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "26",
+            "name": {
+              "value": "26",
+              "synonyms": [
+                "sechsundzwanzigste",
+                "sechsundzwanzigster",
+                "sechsundzwanzigsten",
+                "sechsundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "27",
+            "name": {
+              "value": "27",
+              "synonyms": [
+                "siebenundzwanzigste",
+                "siebenundzwanzigster",
+                "siebenundzwanzigsten",
+                "siebenundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "28",
+            "name": {
+              "value": "28",
+              "synonyms": [
+                "achtundzwanzigste",
+                "achtundzwanzigster",
+                "achtundzwanzigsten",
+                "achtundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "29",
+            "name": {
+              "value": "29",
+              "synonyms": [
+                "neunundzwanzigste",
+                "neunundzwanzigster",
+                "neunundzwanzigsten",
+                "neunundzwanzigstes"
+              ]
+            }
+          },
+          {
+            "id": "30",
+            "name": {
+              "value": "30",
+              "synonyms": [
+                "dreißigste",
+                "dreißigster",
+                "dreißigsten",
+                "dreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "31",
+            "name": {
+              "value": "31",
+              "synonyms": [
+                "einunddreißigste",
+                "einunddreißigster",
+                "einunddreißigsten",
+                "einunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "32",
+            "name": {
+              "value": "32",
+              "synonyms": [
+                "zweiunddreißigste",
+                "zweiunddreißigster",
+                "zweiunddreißigsten",
+                "zweiunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "33",
+            "name": {
+              "value": "33",
+              "synonyms": [
+                "dreiunddreißigste",
+                "dreiunddreißigster",
+                "dreiunddreißigsten",
+                "dreiunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "34",
+            "name": {
+              "value": "34",
+              "synonyms": [
+                "vierunddreißigste",
+                "vierunddreißigster",
+                "vierunddreißigsten",
+                "vierunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "35",
+            "name": {
+              "value": "35",
+              "synonyms": [
+                "fünfunddreißigste",
+                "fünfunddreißigster",
+                "fünfunddreißigsten",
+                "fünfunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "36",
+            "name": {
+              "value": "36",
+              "synonyms": [
+                "sechsunddreißigste",
+                "sechsunddreißigster",
+                "sechsunddreißigsten",
+                "sechsunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "37",
+            "name": {
+              "value": "37",
+              "synonyms": [
+                "siebenunddreißigste",
+                "siebenunddreißigster",
+                "siebenunddreißigsten",
+                "siebenunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "38",
+            "name": {
+              "value": "38",
+              "synonyms": [
+                "achtunddreißigste",
+                "achtunddreißigster",
+                "achtunddreißigsten",
+                "achtunddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "39",
+            "name": {
+              "value": "39",
+              "synonyms": [
+                "neununddreißigste",
+                "neununddreißigster",
+                "neununddreißigsten",
+                "neununddreißigstes"
+              ]
+            }
+          },
+          {
+            "id": "40",
+            "name": {
+              "value": "40",
+              "synonyms": [
+                "vierzigste",
+                "vierzigster",
+                "vierzigsten",
+                "vierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "41",
+            "name": {
+              "value": "41",
+              "synonyms": [
+                "einundvierzigste",
+                "einundvierzigster",
+                "einundvierzigsten",
+                "einundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "42",
+            "name": {
+              "value": "42",
+              "synonyms": [
+                "zweiundvierzigste",
+                "zweiundvierzigster",
+                "zweiundvierzigsten",
+                "zweiundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "43",
+            "name": {
+              "value": "43",
+              "synonyms": [
+                "dreiundvierzigste",
+                "dreiundvierzigster",
+                "dreiundvierzigsten",
+                "dreiundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "44",
+            "name": {
+              "value": "44",
+              "synonyms": [
+                "vierundvierzigste",
+                "vierundvierzigster",
+                "vierundvierzigsten",
+                "vierundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "45",
+            "name": {
+              "value": "45",
+              "synonyms": [
+                "fünfundvierzigste",
+                "fünfundvierzigster",
+                "fünfundvierzigsten",
+                "fünfundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "46",
+            "name": {
+              "value": "46",
+              "synonyms": [
+                "sechsundvierzigste",
+                "sechsundvierzigster",
+                "sechsundvierzigsten",
+                "sechsundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "47",
+            "name": {
+              "value": "47",
+              "synonyms": [
+                "siebenundvierzigste",
+                "siebenundvierzigster",
+                "siebenundvierzigsten",
+                "siebenundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "48",
+            "name": {
+              "value": "48",
+              "synonyms": [
+                "achtundvierzigste",
+                "achtundvierzigster",
+                "achtundvierzigsten",
+                "achtundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "49",
+            "name": {
+              "value": "49",
+              "synonyms": [
+                "neunundvierzigste",
+                "neunundvierzigster",
+                "neunundvierzigsten",
+                "neunundvierzigstes"
+              ]
+            }
+          },
+          {
+            "id": "50",
+            "name": {
+              "value": "50",
+              "synonyms": [
+                "fünfzigste",
+                "fünfzigster",
+                "fünfzigsten",
+                "fünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "51",
+            "name": {
+              "value": "51",
+              "synonyms": [
+                "einundfünfzigste",
+                "einundfünfzigster",
+                "einundfünfzigsten",
+                "einundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "52",
+            "name": {
+              "value": "52",
+              "synonyms": [
+                "zweiundfünfzigste",
+                "zweiundfünfzigster",
+                "zweiundfünfzigsten",
+                "zweiundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "53",
+            "name": {
+              "value": "53",
+              "synonyms": [
+                "dreiundfünfzigste",
+                "dreiundfünfzigster",
+                "dreiundfünfzigsten",
+                "dreiundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "54",
+            "name": {
+              "value": "54",
+              "synonyms": [
+                "vierundfünfzigste",
+                "vierundfünfzigster",
+                "vierundfünfzigsten",
+                "vierundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "55",
+            "name": {
+              "value": "55",
+              "synonyms": [
+                "fünfundfünfzigste",
+                "fünfundfünfzigster",
+                "fünfundfünfzigsten",
+                "fünfundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "56",
+            "name": {
+              "value": "56",
+              "synonyms": [
+                "sechsundfünfzigste",
+                "sechsundfünfzigster",
+                "sechsundfünfzigsten",
+                "sechsundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "57",
+            "name": {
+              "value": "57",
+              "synonyms": [
+                "siebenundfünfzigste",
+                "siebenundfünfzigster",
+                "siebenundfünfzigsten",
+                "siebenundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "58",
+            "name": {
+              "value": "58",
+              "synonyms": [
+                "achtundfünfzigste",
+                "achtundfünfzigster",
+                "achtundfünfzigsten",
+                "achtundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "59",
+            "name": {
+              "value": "59",
+              "synonyms": [
+                "neunundfünfzigste",
+                "neunundfünfzigster",
+                "neunundfünfzigsten",
+                "neunundfünfzigstes"
+              ]
+            }
+          },
+          {
+            "id": "60",
+            "name": {
+              "value": "60",
+              "synonyms": [
+                "sechzigste",
+                "sechzigster",
+                "sechzigsten",
+                "sechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "61",
+            "name": {
+              "value": "61",
+              "synonyms": [
+                "einundsechzigste",
+                "einundsechzigster",
+                "einundsechzigsten",
+                "einundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "62",
+            "name": {
+              "value": "62",
+              "synonyms": [
+                "zweiundsechzigste",
+                "zweiundsechzigster",
+                "zweiundsechzigsten",
+                "zweiundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "63",
+            "name": {
+              "value": "63",
+              "synonyms": [
+                "dreiundsechzigste",
+                "dreiundsechzigster",
+                "dreiundsechzigsten",
+                "dreiundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "64",
+            "name": {
+              "value": "64",
+              "synonyms": [
+                "vierundsechzigste",
+                "vierundsechzigster",
+                "vierundsechzigsten",
+                "vierundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "65",
+            "name": {
+              "value": "65",
+              "synonyms": [
+                "fünfundsechzigste",
+                "fünfundsechzigster",
+                "fünfundsechzigsten",
+                "fünfundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "66",
+            "name": {
+              "value": "66",
+              "synonyms": [
+                "sechsundsechzigste",
+                "sechsundsechzigster",
+                "sechsundsechzigsten",
+                "sechsundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "67",
+            "name": {
+              "value": "67",
+              "synonyms": [
+                "siebenundsechzigste",
+                "siebenundsechzigster",
+                "siebenundsechzigsten",
+                "siebenundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "68",
+            "name": {
+              "value": "68",
+              "synonyms": [
+                "achtundsechzigste",
+                "achtundsechzigster",
+                "achtundsechzigsten",
+                "achtundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "69",
+            "name": {
+              "value": "69",
+              "synonyms": [
+                "neunundsechzigste",
+                "neunundsechzigster",
+                "neunundsechzigsten",
+                "neunundsechzigstes"
+              ]
+            }
+          },
+          {
+            "id": "70",
+            "name": {
+              "value": "70",
+              "synonyms": [
+                "siebzigste",
+                "siebzigster",
+                "siebzigsten",
+                "siebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "71",
+            "name": {
+              "value": "71",
+              "synonyms": [
+                "einundsiebzigste",
+                "einundsiebzigster",
+                "einundsiebzigsten",
+                "einundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "72",
+            "name": {
+              "value": "72",
+              "synonyms": [
+                "zweiundsiebzigste",
+                "zweiundsiebzigster",
+                "zweiundsiebzigsten",
+                "zweiundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "73",
+            "name": {
+              "value": "73",
+              "synonyms": [
+                "dreiundsiebzigste",
+                "dreiundsiebzigster",
+                "dreiundsiebzigsten",
+                "dreiundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "74",
+            "name": {
+              "value": "74",
+              "synonyms": [
+                "vierundsiebzigste",
+                "vierundsiebzigster",
+                "vierundsiebzigsten",
+                "vierundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "75",
+            "name": {
+              "value": "75",
+              "synonyms": [
+                "fünfundsiebzigste",
+                "fünfundsiebzigster",
+                "fünfundsiebzigsten",
+                "fünfundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "76",
+            "name": {
+              "value": "76",
+              "synonyms": [
+                "sechsundsiebzigste",
+                "sechsundsiebzigster",
+                "sechsundsiebzigsten",
+                "sechsundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "77",
+            "name": {
+              "value": "77",
+              "synonyms": [
+                "siebenundsiebzigste",
+                "siebenundsiebzigster",
+                "siebenundsiebzigsten",
+                "siebenundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "78",
+            "name": {
+              "value": "78",
+              "synonyms": [
+                "achtundsiebzigste",
+                "achtundsiebzigster",
+                "achtundsiebzigsten",
+                "achtundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "79",
+            "name": {
+              "value": "79",
+              "synonyms": [
+                "neunundsiebzigste",
+                "neunundsiebzigster",
+                "neunundsiebzigsten",
+                "neunundsiebzigstes"
+              ]
+            }
+          },
+          {
+            "id": "80",
+            "name": {
+              "value": "80",
+              "synonyms": [
+                "achtzigste",
+                "achtzigster",
+                "achtzigsten",
+                "achtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "81",
+            "name": {
+              "value": "81",
+              "synonyms": [
+                "einundachtzigste",
+                "einundachtzigster",
+                "einundachtzigsten",
+                "einundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "82",
+            "name": {
+              "value": "82",
+              "synonyms": [
+                "zweiundachtzigste",
+                "zweiundachtzigster",
+                "zweiundachtzigsten",
+                "zweiundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "83",
+            "name": {
+              "value": "83",
+              "synonyms": [
+                "dreiundachtzigste",
+                "dreiundachtzigster",
+                "dreiundachtzigsten",
+                "dreiundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "84",
+            "name": {
+              "value": "84",
+              "synonyms": [
+                "vierundachtzigste",
+                "vierundachtzigster",
+                "vierundachtzigsten",
+                "vierundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "85",
+            "name": {
+              "value": "85",
+              "synonyms": [
+                "fünfundachtzigste",
+                "fünfundachtzigster",
+                "fünfundachtzigsten",
+                "fünfundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "86",
+            "name": {
+              "value": "86",
+              "synonyms": [
+                "sechsundachtzigste",
+                "sechsundachtzigster",
+                "sechsundachtzigsten",
+                "sechsundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "87",
+            "name": {
+              "value": "87",
+              "synonyms": [
+                "siebenundachtzigste",
+                "siebenundachtzigster",
+                "siebenundachtzigsten",
+                "siebenundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "88",
+            "name": {
+              "value": "88",
+              "synonyms": [
+                "achtundachtzigste",
+                "achtundachtzigster",
+                "achtundachtzigsten",
+                "achtundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "89",
+            "name": {
+              "value": "89",
+              "synonyms": [
+                "neunundachtzigste",
+                "neunundachtzigster",
+                "neunundachtzigsten",
+                "neunundachtzigstes"
+              ]
+            }
+          },
+          {
+            "id": "90",
+            "name": {
+              "value": "90",
+              "synonyms": [
+                "neunzigste",
+                "neunzigster",
+                "neunzigsten",
+                "neunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "91",
+            "name": {
+              "value": "91",
+              "synonyms": [
+                "einundneunzigste",
+                "einundneunzigster",
+                "einundneunzigsten",
+                "einundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "92",
+            "name": {
+              "value": "92",
+              "synonyms": [
+                "zweiundneunzigste",
+                "zweiundneunzigster",
+                "zweiundneunzigsten",
+                "zweiundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "93",
+            "name": {
+              "value": "93",
+              "synonyms": [
+                "dreiundneunzigste",
+                "dreiundneunzigster",
+                "dreiundneunzigsten",
+                "dreiundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "94",
+            "name": {
+              "value": "94",
+              "synonyms": [
+                "vierundneunzigste",
+                "vierundneunzigster",
+                "vierundneunzigsten",
+                "vierundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "95",
+            "name": {
+              "value": "95",
+              "synonyms": [
+                "fünfundneunzigste",
+                "fünfundneunzigster",
+                "fünfundneunzigsten",
+                "fünfundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "96",
+            "name": {
+              "value": "96",
+              "synonyms": [
+                "sechsundneunzigste",
+                "sechsundneunzigster",
+                "sechsundneunzigsten",
+                "sechsundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "97",
+            "name": {
+              "value": "97",
+              "synonyms": [
+                "siebenundneunzigste",
+                "siebenundneunzigster",
+                "siebenundneunzigsten",
+                "siebenundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "98",
+            "name": {
+              "value": "98",
+              "synonyms": [
+                "achtundneunzigste",
+                "achtundneunzigster",
+                "achtundneunzigsten",
+                "achtundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "99",
+            "name": {
+              "value": "99",
+              "synonyms": [
+                "neunundneunzigste",
+                "neunundneunzigster",
+                "neunundneunzigsten",
+                "neunundneunzigstes"
+              ]
+            }
+          },
+          {
+            "id": "100",
+            "name": {
+              "value": "100",
+              "synonyms": [
+                "einhundertste",
+                "einhundertster",
+                "einhundertsten",
+                "einhundertstes",
+                "hundertste",
+                "hundertster",
+                "hundertsten",
+                "hundertstes"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "Test",
+        "samples": [
+          "Welcher Tag ist der {OrdinalNum}",
+          "Was ist der {OrdinalNum} Tag"
+        ],
+        "slots": [
+          {
+            "name": "OrdinalNum",
+            "type": "OrdinalNumber",
+            "samples": [
+              "{OrdinalNum}",
+              "Ich meine den {OrdinalNum} Tag"
+            ]
+          }
+        ]
+      }
+    ],
+    "invocationName": "Test Tage"
+  }
+}
